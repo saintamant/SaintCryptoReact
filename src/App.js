@@ -13,9 +13,10 @@ function App() {
     <>
     <NavBar/>
     <ItemListContainer greeting={bienvenida}/>
-    <Cards/>
     <Counter/>
+    <Cards/>
     
+  
     </>
   );
 
